@@ -42,6 +42,8 @@
 
 This is a Python project created for my Winter 2021 Semester at the King's University.
 
+Specifically, this is my final project for CMPT450: Image Processing.
+
 It creates photomosaic images from all images in the "inputImages" folder, based on tiling the specified input on the command line, and saves it to the outputImages folder.
 
 Next steps are to make it look fancier by adding more pretty command line stuff like help (error codes), proper argument parsing, etc.
@@ -77,9 +79,9 @@ Refer to https://en.wikipedia.org/wiki/Photographic_mosaic for more information 
 
 ## Installation
 
-1.  Download the repository files (project) directly from the download section or clone this project by typing in the bash the following command:
+1.  Download the repository files (project) directly from the download section or clone this project by entering the following command:
 
-    git clone https://github.com/afreemanio/mosaicMaker.git
+        git clone https://github.com/afreemanio/mosaicMaker.git
 
 2.  Navigate to the repository using your terminal of choice
 
@@ -95,7 +97,7 @@ Refer to https://en.wikipedia.org/wiki/Photographic_mosaic for more information 
 
     python main.py samuel.jpg 1000 1000 100 100
 
-  To run the program specifying /sourceImages/samuel.jpg as the base image, 1000x1000 as the width/height of your final Photomosiac, with 100(w)x100(h)=10000 tiles in total.
+  To run the program specifying ../sourceImages/samuel.jpg as the base image, 1000x1000 as the width/height of your final Photomosiac, with 100(w)x100(h)=10000 tiles in total.
 
 ## Contributing
 
