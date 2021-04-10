@@ -44,14 +44,14 @@ This is a Python project created for my Winter 2021 Semester at the King's Unive
 
 Specifically, this is my final project for CMPT450: Image Processing.
 
-It creates photomosaic images from all images in the "inputImages" folder, based on tiling the specified input on the command line, and saves it to the outputImages folder.
+It creates photomosaic images from all images in the "inputImages" folder, based on tiling the specified input on the command line, and saves everything to the outputImages folder.
 
 Next steps are to make it look fancier by adding more pretty command line stuff like help (error codes), proper argument parsing, etc.
 
 Thank you!
 
 <p>
-  <a href="https://github.com/afreemanio/kings-got-everything/">
+  <a href="https://github.com/afreemanio/mosaicMaker/">
     <img src="https://imgur.com/OXnn6kk.jpg" alt="" width="875">
   </a>
 </p>
