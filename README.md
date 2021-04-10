@@ -40,9 +40,7 @@
 
 ## About The Project
 
-This is a Python project created for my Winter 2021 Semester at the King's University.
-
-Specifically, this is my final project for CMPT450: Image Processing.
+This is a Python project created for my Winter 2021 Semester at the King's University, my final project for CMPT450: Image Processing.
 
 It creates photomosaic images from all images in the "inputImages" folder, based on tiling the specified input on the command line, and saves everything to the outputImages folder.
 
