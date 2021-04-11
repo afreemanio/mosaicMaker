@@ -87,7 +87,11 @@ Refer to https://en.wikipedia.org/wiki/Photographic_mosaic for more information 
 
 4.  Add source files to the sourceImages folder that will be the main (bigger) photo in your Photographic Mosaic
 
-5.  With Python installed, navigate to /src/, and run it using this format:
+5.  With Python3 installed, navigate to /src/, run the following command to install the required dependencies:
+
+        pip3 install -r requirements.txt
+
+6.  With Python installed, navigate to /src/, and run it using this format:
 
     python main.py [image from sourceImages + .ext] [output width] [output height] [number of tiles in x direction] [number of tiles in y direction]
 
