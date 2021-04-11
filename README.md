@@ -91,7 +91,7 @@ Refer to https://en.wikipedia.org/wiki/Photographic_mosaic for more information 
 
         pip3 install -r requirements.txt
 
-6.  With Python installed, navigate to /src/, and run it using this format:
+6.  Then run the program using this format:
 
     python main.py [image from sourceImages + .ext] [output width] [output height] [number of tiles in x direction] [number of tiles in y direction]
 
