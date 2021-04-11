@@ -64,7 +64,7 @@ Refer to https://en.wikipedia.org/wiki/Photographic_mosaic for more information 
 
 ### Built With
 
-- [Python](https://www.python.org/)
+- [Python 3.9.1](https://www.python.org/)
 
 ### Features
 
